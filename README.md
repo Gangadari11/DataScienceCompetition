@@ -2,7 +2,7 @@
 
 Hey everyone! We wanted to share how we approached this customer experience prediction challenge. Let we walk you through what we did:
 
-### My Approach
+### Our Approach
  We went with XGBoost because it's really good at handling both numerical and categorical data, which we had plenty of in this dataset.
 
 ### Data Preprocessing
